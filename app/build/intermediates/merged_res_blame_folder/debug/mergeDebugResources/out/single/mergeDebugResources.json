@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_grey_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\grey_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_orange_button_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\orange_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "com.example.myonlinestore.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.example.myonlinestore.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_default_image.jpg.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\default_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\layout_viewholder_pop_list.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\layout\\viewholder_pop_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_cat1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_arrow_detail.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\arrow_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_star.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_red_banner.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\red_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_cat3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_red_circle.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_pic2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\pic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_cat4.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxhdpi_pic1.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxhdpi\\pic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_cat5.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\cat5.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_bell.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_girl.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_review.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\review.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_btn_cat_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\btn_cat_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_pic3.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\pic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xxxhdpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xxxhdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_bookmark.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-mdpi_credit_card.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-mdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_location.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-xhdpi_cat2.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-xhdpi\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-ldpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-ldpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable_white_background2.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable\\white_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-debug-5:\\drawable-hdpi_share.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.9\\com.example.myonlinestore.app-main-7:\\drawable-hdpi\\share.png"
+    }
+]

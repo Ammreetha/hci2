@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_options">
+    <item>Title (A-Z)</item>
+    <item>Title (Z-A)</item>
+    <item>Price (Low to High)</item>
+    <item>Price (High to Low)</item>
+</string-array>
+    <color name="black">#272727</color>
+    <color name="grey">#ababab</color>
+    <color name="red">#E76160</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyOnlineStore</string>
+    <string name="gcm_defaultSenderId" translatable="false">714396030615</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyx3h6lvuG1ihqBVfECafrpKK6MIV8wDg</string>
+    <string name="google_app_id" translatable="false">1:714396030615:android:d8277702a0ad8f9c12fbd2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyx3h6lvuG1ihqBVfECafrpKK6MIV8wDg</string>
+    <string name="google_storage_bucket" translatable="false">loginappfirebase-c174d.firebasestorage.app</string>
+    <string name="project_id" translatable="false">loginappfirebase-c174d</string>
+    <style name="Base.Theme.MyOnlineStore" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>
+    <style name="Theme.MyOnlineStore" parent="Base.Theme.MyOnlineStore"/>
+</resources>
