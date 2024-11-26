@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyOnlineStore</string>
+<string-array name="sort_options">
+    <item>Title (A-Z)</item>
+    <item>Title (Z-A)</item>
+    <item>Price (Low to High)</item>
+    <item>Price (High to Low)</item>
+</string-array>
+</resources>
