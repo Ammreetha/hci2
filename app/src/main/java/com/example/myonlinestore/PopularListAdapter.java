@@ -52,7 +52,7 @@ public class PopularListAdapter extends RecyclerView.Adapter<PopularListAdapter.
                     .into(holder.pic);
 
             holder.itemView.setOnClickListener(v -> {
-                Intent intent=new Intent(holder.itemView.getContext(),DetailActivity.class);
+                Intent intent=new Intent(holder.itemView.getContext(),detailActivity.class);
                 intent.putExtra("object",items.get(position));
                 holder.itemView.getContext().startActivity(intent);
             });
